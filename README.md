@@ -1,103 +1,133 @@
-# BROT2YOU — ELT Hub
+# 🚇 BROT2YOU — ELT Hub
 
-> Suite d'outils numériques libres pour l'enseignement de l'anglais au collège et au lycée (BO 2025)
+> Applications pédagogiques gratuites pour la classe d'anglais au collège et au lycée.
 
-Développé par un professeur d'anglais et référent numérique dans l'Éducation nationale française, **BROT2YOU** regroupe des applications web pédagogiques entièrement autonomes (fichiers HTML uniques, sans serveur, sans données personnelles collectées).
-
-🔗 **Accès direct :** [brot2you.github.io/Brot2you-Apps](https://brot2you.github.io/Brot2you-Apps/)
+**→ [Accéder au hub](https://brot2you.github.io/)**
 
 ---
 
-## Applications disponibles
+## Présentation
 
-### 🎮 Grammaire & vocabulaire
+BROT2YOU est un hub regroupant des applications web pédagogiques conçues par un enseignant d'anglais pour ses élèves et ses collègues. Toutes les apps sont :
 
-| Application | Description | Niveau |
-|-------------|-------------|--------|
-| **GrammarArena** | Entraînement grammatical sur le thème D&D — système XP, badges, quiz | Collège / Lycée |
-| **VerbDojo** | 92 verbes irréguliers — thème Mario Bros, jeu de mémoire, quiz, suivi de progression | Collège |
-| **Mind the Mistake!** | Correction d'erreurs grammaticales — 22 codes d'erreur | Collège / Lycée |
+- **Gratuites** et sans inscription
+- **Sans publicité** et sans collecte de données
+- **Alignées sur le BO 2025** et le CECRL
+- **Hébergées sur GitHub Pages** ou Lovable.app
+- Accessibles depuis n'importe quel navigateur, ordinateur ou tablette
 
-### 🗣️ Phonologie & prononciation
-
-| Application | Description | Niveau |
-|-------------|-------------|--------|
-| **Phonix** | 44 phonèmes — diagrammes bouche SVG, TTS multi-accents, paires minimales, gamification | Collège / Lycée |
-| **ShadowMate** | Entraînement à la prosodie et au shadowing | Lycée |
-
-### 📚 Compréhension & culture
-
-| Application | Description | Niveau |
-|-------------|-------------|--------|
-| **CultureCorner** | 226+ ressources culturelles anglophones organisées par axes du BO 2025 | Collège / Lycée |
-| **DeepRead** | Lecture approfondie avec glossaire intégré | Lycée |
-
-### 🗺️ Jeux & immersion
-
-| Application | Description | Niveau |
-|-------------|-------------|--------|
-| **Ravensmoor** | Jeu d'enquête policière — Past Continuous & Past Perfect, cartes suspects imprimables | 4e / 3e |
-| **My Survival Kit** | Référentiel d'anglais gamifié — thème Indiana Jones, XP, badges, streaks | Collège |
-
-### 🧠 Inclusion & accessibilité
-
-| Application | Description | Niveau |
-|-------------|-------------|--------|
-| **DysCollège** | Outil d'accompagnement des élèves à besoins particuliers — 300+ conseils sourcés, adaptation de texte en direct | Collège (toutes disciplines) |
-
-### 🛠️ Outils enseignants
-
-| Application | Description | Usage |
-|-------------|-------------|-------|
-| **Planning Assistant** | Navigation dans le BO 2025 anglais collège | Enseignants |
-| **EVARS Companion** | Croisement axes BO 2025 / objectifs EVARS | Enseignants |
-| **SequenceBuilder** | Planification de séquences pédagogiques | Enseignants |
-| **Générateur de commentaires** | Commentaires de bulletins — approche banque de phrases, local et confidentiel | Enseignants |
+Le design s'inspire des lignes du **métro londonien** (London Underground).
 
 ---
 
-## Caractéristiques techniques
+## 🎒 Espace Élèves
 
-- **Fichiers HTML uniques** — aucune installation, aucun serveur requis
-- **Zéro dépendance externe critique** — fonctionne hors ligne après premier chargement
-- **Pas de collecte de données** — tout est stocké localement (localStorage)
-- **Mobile-first** — compatible iOS et Android
-- **Gamification** — XP, badges, streaks dans la plupart des apps élèves
-- **Bibliothèques** : React + Babel (cdnjs), aucune clé API requise
-
----
-
-## Ancrage pédagogique
-
-Toutes les applications sont conçues en cohérence avec :
-
-- Le **Bulletin Officiel 2025** pour l'anglais au collège et au lycée
-- Les **41 axes culturels** du programme
-- Les compétences CECRL (A1 → B2)
-- Les recommandations pour les élèves à besoins éducatifs particuliers (DYS, TDAH, etc.)
+| App | Description | Lien |
+|-----|-------------|------|
+| 📚 **Books of Heroes** | Romans dont tu es le héros en anglais. Mode Dys intégré (police Lexend, espacement, lecture à voix haute). | [→](https://brot2you.github.io/BOOKS-OF-HEROES/) |
+| 🧠 **CogniCoach** | Révise avec méthode grâce aux sciences cognitives : flashcards audio, répétition espacée, dictée, séance guidée. | [→](https://brot2you.github.io/Cognicoach/) |
+| 🌍 **CultureCorner** | 41 ressources culturelles anglophones par axe BO 2025 : musique, films, presse, podcasts. | [→](https://brot2you.github.io/Culture-Corner/) |
+| ⚔️ **GrammarArena** | 15 boss grammaticaux, 120 questions, mode Solo ou Arcade chronométré. Combos et barres de vie. | [→](https://brot2you.github.io/Grammar-Arena/) |
+| 🌳 **L'Arbre des Devoirs** | Organise et visualise ses devoirs d'anglais sous forme d'arbre interactif. | [→](https://brot2you.github.io/Arbre-des-devoirs/) |
+| 📖 **Make Me Read** | Adapte n'importe quel texte : police OpenDyslexic, espacement, masque de lecture, syllabation colorée. | [→](https://brot2you.github.io/Make-Me-Read/) |
+| 🚇 **Mind the Mistake!** | 22 codes d'erreur pour l'auto-correction. Règles, quiz, exercices. Design London Underground. | [→](https://brot2you.github.io/mind-the-mistake/) |
+| 🗺️ **My Survival Kit** | Tout le vocabulaire utile en classe d'anglais, du collège au lycée, dans un univers Indiana Jones. | [→](https://brot2you.github.io/My-Survival-Kit/) |
+| 📓 **Objectif Devoirs** | Agenda, timer Pomodoro, flashcards, quiz, MindMap et suivi XP. Mode Dys intégré. | [→](https://brot2you.github.io/Objectif-Devoirs/) |
+| 🔊 **Phonix** | 44 phonèmes, paires minimales, quiz et gamification. Synthèse vocale Google. | [→](https://brot2you.github.io/Phonix/) |
+| 🥋 **VerbDojo** | Maîtrise les verbes irréguliers anglais : répétition, progression, ceintures. | [→](https://brot2you.github.io/Verb-Dojo/) |
 
 ---
 
-## Licence
+## 📚 Espace Profs
 
-Ce projet est distribué sous licence **MIT** — voir le fichier [LICENSE](./LICENSE).
-
-Vous êtes libre d'utiliser, modifier et redistribuer ces outils, y compris dans vos propres projets éducatifs.
+| App | Description | Lien |
+|-----|-------------|------|
+| 🧠 **CogniCoach** | Espace enseignant : stratégies cognitives, acquisition L2, grilles d'observation, références scientifiques. | [→](https://brot2you.github.io/Cognicoach/) |
+| 🌍 **CultureCorner** | 41 ressources avec génération de fiches pédagogiques IA : objectifs, activités, lexique, tâche finale. | [→](https://brot2you.github.io/Culture-Corner/) |
+| 🎓 **Didactique Anglais — Compagnon MEEF** | Assistant IA pour les stagiaires MEEF en préparation au concours de didactique. | [→](https://didactics-ai-coach.lovable.app) |
+| 📚 **DidaLangues** | Portail de didactique : glossaire DDL, démarches pédagogiques, CECRL, TICE, auteurs de référence. | [→](https://brot2you.github.io/DidaLangues/) |
+| 🎓 **DysCollège** | Conseils par trouble et discipline, 5 sources de référence, adaptateur de texte. 100 % local, sans IA. | [→](https://brot2you.github.io/Dys-College/) |
+| 🧩 **DysCompagnon** | 27 fiches conseils, adaptateur de texte, assistant IA et suivi des aménagements par élève. | [→](https://eleves-dys-brot2you.lovable.app/) |
+| 📊 **EVARS Companion** | Croise les axes BO 2025 avec les objectifs EVARS collège pour générer un dossier pédagogique complet. | [→](https://brot2you.github.io/Evars-Companion/) |
+| 🗓️ **Planning Assistant** | Planifie les séquences avec axes, lexique, faits de langue et compétences BO 2025. 100 % local. | [→](https://brot2you.github.io/Planning-Assistant/) |
+| 🕵️ **Ravensmoor Estate** | Enquête policière autonome en 1925. Past Continuous & Past Perfect. Cartes suspects imprimables. | [→](https://brot2you.github.io/Ravensmoor/) |
+| 📖 **The English Sequence** | Référence des axes culturels BO 2025 par niveau, du collège au lycée, avec niveaux CECRL visés. | [→](https://teach-sequence-maker.lovable.app/programmes) |
 
 ---
 
-## Contribuer
+## 🛠️ Structure du projet
 
-Les retours, suggestions et contributions sont les bienvenus !
+```
+brot2you.github.io/
+├── index.html        ← Hub principal (auto-contenu, logo embarqué en base64)
+├── mascot.png        ← Mascotte BROT2YOU (optionnel, fallback)
+├── README.md         ← Ce fichier
+└── LICENSE           ← Licence Creative Commons BY-NC-SA 4.0
+```
 
-- Ouvrez une **issue** pour signaler un bug ou proposer une amélioration
-- Soumettez une **merge request** pour contribuer directement
-- Contactez via la Forge pour tout projet de collaboration
+Le fichier `index.html` est **auto-contenu** : il ne dépend d'aucune ressource externe sauf les polices Google Fonts. Il fonctionne en ouvrant le fichier directement dans un navigateur.
 
 ---
 
-## À propos
+## 🔧 Contribuer / Forker
 
-Développé dans le cadre du projet **BROT2YOU** — une initiative personnelle d'un enseignant-développeur visant à mettre le numérique éducatif libre au service des élèves et des collègues.
+Tu es enseignant·e d'anglais et tu veux créer ton propre hub ou proposer une app ?
 
-> *"Des outils pensés par un enseignant, pour les enseignants et leurs élèves."*
+### Ajouter une app au hub
+
+1. **Forke** ce dépôt sur GitHub
+2. Ouvre `index.html` dans un éditeur de texte
+3. Localise la section `<!-- ══ PAGE ÉLÈVES ══ -->` ou `<!-- ══ PAGE PROFS ══ -->`
+4. Copie-colle un bloc `.app-card` existant et adapte :
+   - `href` → l'URL de ton app
+   - `--card-color` → une couleur London Underground (voir palette ci-dessous)
+   - `app-icon` → un emoji
+   - `app-name`, `app-desc`, `app-tags`
+5. Soumets une **Pull Request** ou utilise ton fork en autonomie
+
+### Palette de couleurs London Underground
+
+| Couleur | Hex | Ligne |
+|---------|-----|-------|
+| Rouge | `#E32017` | Central |
+| Bleu foncé | `#003688` | Piccadilly |
+| Vert | `#00782A` | District |
+| Bleu clair | `#0098D4` | Victoria |
+| Violet | `#6950A1` | Metropolitan |
+| Marron | `#B36305` | Bakerloo |
+| Magenta | `#9B0056` | Overground |
+
+### Créer une app compatible
+
+Les apps du hub sont des **pages web statiques** hébergées sur GitHub Pages ou Lovable.app. Pour être compatibles :
+
+- Répondre à l'URL (pas de 404)
+- Fonctionner sans compte ni connexion
+- Être utilisables sur ordinateur et tablette
+- Sans publicité et sans collecte de données
+
+---
+
+## 📄 Licence
+
+Ce projet est mis à disposition sous licence **Creative Commons Attribution — Pas d'Utilisation Commerciale — Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)**.
+
+[![Licence CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
+
+**Tu peux :**
+- ✅ Partager — copier et redistribuer le contenu
+- ✅ Adapter — remixer, transformer et créer à partir du contenu
+
+**Sous les conditions suivantes :**
+- 📛 **Attribution** — Créditer BROT2YOU et indiquer les modifications
+- 🚫 **Pas d'utilisation commerciale** — Interdit à des fins commerciales
+- 🔄 **Partage dans les mêmes conditions** — Même licence obligatoire pour les dérivés
+
+---
+
+## 👤 Contact
+
+Créé par **Brot**, professeur d'anglais au collège et au lycée (France).
+
+- GitHub : [@brot2you](https://github.com/brot2you)
+- Hub : [brot2you.github.io](https://brot2you.github.io/)
