@@ -1,4 +1,8 @@
-# 🚇 BROT2YOU — ELT Hub
+<div align="center">
+  <img src="mascot.png" alt="BROT2YOU" width="220"/>
+</div>
+
+# BROT2YOU — ELT Hub
 
 > Applications pédagogiques gratuites pour la classe d'anglais au collège et au lycée.
 
