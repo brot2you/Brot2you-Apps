@@ -4,6 +4,8 @@
 
 **→ [Accéder au hub](https://brot2you.github.io/)**
 
+Créé par **Cyril BROT** · Académie de Montpellier
+
 ---
 
 ## Présentation
@@ -20,11 +22,12 @@ Le design s'inspire des lignes du **métro londonien** (London Underground).
 
 ---
 
-## 🎒 Espace Élèves
+## 🎒 Espace Élèves (12 apps)
 
 | App | Description | Lien |
 |-----|-------------|------|
 | 📚 **Books of Heroes** | Romans dont tu es le héros en anglais. Mode Dys intégré (police Lexend, espacement, lecture à voix haute). | [→](https://brot2you.github.io/BOOKS-OF-HEROES/) |
+| 🔍 **Case Files** | 5 énigmes policières logiques en anglais (whodunnit). Grilles d'indices, narration, mode dys intégré. Niveau 3e. | [→](https://brot2you.github.io/Brot2you-Case-Files/) |
 | 🧠 **CogniCoach** | Révise avec méthode grâce aux sciences cognitives : flashcards audio, répétition espacée, dictée, séance guidée. | [→](https://brot2you.github.io/Cognicoach/) |
 | 🌍 **CultureCorner** | 41 ressources culturelles anglophones par axe BO 2025 : musique, films, presse, podcasts. | [→](https://brot2you.github.io/Culture-Corner/) |
 | ⚔️ **GrammarArena** | 15 boss grammaticaux, 120 questions, mode Solo ou Arcade chronométré. Combos et barres de vie. | [→](https://brot2you.github.io/Grammar-Arena/) |
@@ -38,7 +41,7 @@ Le design s'inspire des lignes du **métro londonien** (London Underground).
 
 ---
 
-## 📚 Espace Profs
+## 📚 Espace Profs (10 apps)
 
 | App | Description | Lien |
 |-----|-------------|------|
@@ -119,15 +122,16 @@ Ce projet est mis à disposition sous licence **Creative Commons Attribution —
 - ✅ Adapter — remixer, transformer et créer à partir du contenu
 
 **Sous les conditions suivantes :**
-- 📛 **Attribution** — Créditer BROT2YOU et indiquer les modifications
+- 📛 **Attribution** — Créditer Cyril BROT / BROT2YOU et indiquer les modifications
 - 🚫 **Pas d'utilisation commerciale** — Interdit à des fins commerciales
 - 🔄 **Partage dans les mêmes conditions** — Même licence obligatoire pour les dérivés
 
 ---
 
-## 👤 Contact
+## 👤 Auteur
 
-Créé par **Brot**, professeur d'anglais au collège et au lycée (France).
+Créé par **Cyril BROT**, professeur d'anglais au collège et au lycée.  
+Académie de Montpellier, France.
 
 - GitHub : [@brot2you](https://github.com/brot2you)
 - Hub : [brot2you.github.io](https://brot2you.github.io/)
