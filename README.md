@@ -27,7 +27,7 @@ Le design s'inspire des lignes du **métro londonien** (London Underground).
 | App | Description | Lien |
 |-----|-------------|------|
 | 📚 **Books of Heroes** | Romans dont tu es le héros en anglais. Mode Dys intégré (police Lexend, espacement, lecture à voix haute). | [→](https://brot2you.github.io/BOOKS-OF-HEROES/) |
-| 🔍 **Case Files** | 5 énigmes policières logiques en anglais (whodunnit). Grilles d'indices, narration, mode dys intégré. Niveau 3e. | [→](https://brot2you.github.io/Brot2you-Case-Files/) |
+| 🔍 **Case Files** | 15 énigmes policières logiques en anglais (whodunnit). Grilles d'indices, narration, mode dys intégré. Niveau 3e. | [→](https://brot2you.github.io/Brot2you-Case-Files/) |
 | 🧠 **CogniCoach** | Révise avec méthode grâce aux sciences cognitives : flashcards audio, répétition espacée, dictée, séance guidée. | [→](https://brot2you.github.io/Cognicoach/) |
 | 🌍 **CultureCorner** | 41 ressources culturelles anglophones par axe BO 2025 : musique, films, presse, podcasts. | [→](https://brot2you.github.io/Culture-Corner/) |
 | ⚔️ **GrammarArena** | 15 boss grammaticaux, 120 questions, mode Solo ou Arcade chronométré. Combos et barres de vie. | [→](https://brot2you.github.io/Grammar-Arena/) |
