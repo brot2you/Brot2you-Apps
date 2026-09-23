@@ -56,6 +56,7 @@ Le design s'inspire des lignes du **métro londonien** (London Underground).
 | 🎓 **DysCollège** | Conseils par trouble et discipline, 5 sources de référence, adaptateur de texte. 100 % local, sans IA. | [→](https://brot2you.github.io/Dys-College/) |
 | 🧩 **DysCompagnon** | 27 fiches conseils, adaptateur de texte, assistant IA et suivi des aménagements par élève. | [→](https://eleves-dys-brot2you.lovable.app/) |
 | 📊 **EVARS Companion** | Croise les axes BO 2025 avec les objectifs EVARS collège pour générer un dossier pédagogique complet. | [→](https://brot2you.github.io/Evars-Companion/) |
+| 🧭 **L'Atelier de Fabrique de Séances** | Constructeur de séances en 13 phases : banque d'activités, modalités, classe flexible, jeux & activités de communication par activité langagière. 100 % local. | [→](https://brot2you.github.io/Fabrique-de-S-ances/) |
 | 🗓️ **Planning Assistant** | Planifie les séquences avec axes, lexique, faits de langue et compétences BO 2025. 100 % local. | [→](https://brot2you.github.io/Planning-Assistant/) |
 | 🕵️ **Ravensmoor Estate** | Enquête policière autonome en 1925. Past Continuous & Past Perfect. Cartes suspects imprimables. | [→](https://brot2you.github.io/Ravensmoor/) |
 | 📖 **The English Sequence** | Référence des axes culturels BO 2025 par niveau, du collège au lycée, avec niveaux CECRL visés. | [→](https://teach-sequence-maker.lovable.app/programmes) |
